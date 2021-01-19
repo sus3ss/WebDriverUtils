@@ -10,6 +10,7 @@ public class LaunchChrome {
 	    String currentUrl=driver.getCurrentUrl();
 	    System.out.println(currentUrl);
 	    driver.close();
+	    System.out.println("Sushanth's changes");
 }
 
 }
